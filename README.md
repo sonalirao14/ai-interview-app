@@ -65,10 +65,10 @@ Permission Check Screen: The app prompts the user to allow access to their micro
 
 Question Screen: The app shows each question and plays the question's audio (if available).
 
-Answer Recording Screen: After each question, the user is given a chance to record their response in audio and video format. The recorded media chunks are sent to an API for saving.
+**Answer Recording Screen**: After each question, the user is given a chance to record their response in audio and video format. The recorded media chunks are sent to an API for saving.
 
 Test Completion Screen: Once all the questions have been answered, the app displays a completion screen with results or next steps.
 
-Conclusion
+#Conclusion:
 This AI Interview App provides a great platform to practice interviews with AI, offering an interactive and realistic mock interview experience. The app utilizes Next.js, Tailwind CSS, and TypeScript for efficient development and a responsive, user-friendly interface.
 
