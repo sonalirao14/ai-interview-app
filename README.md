@@ -59,13 +59,13 @@ During the interview process, the app will request the following permissions:
 # Please grant the required permissions for the app to function properly.
 
 ## How It Works
-# Instruction Screen: The app starts by displaying instructions on how to proceed with the interview.
+**Instruction Screen**: The app starts by displaying instructions on how to proceed with the interview.
 
-# Permission Check Screen: The app prompts the user to allow access to their microphone, camera, and screen. These permissions are requested using the navigator.mediaDevices API.
+**Permission Check Screen**: The app prompts the user to allow access to their microphone, camera, and screen. These permissions are requested using the navigator.mediaDevices API.
 
-# Question Screen: The app shows each question and plays the question's audio (if available).
+**Question Screen**: The app shows each question and plays the question's audio (if available).
 
-# **Answer Recording Screen**: After each question, the user is given a chance to record their response in audio and video format. The recorded media chunks are sent to an API for saving.
+**Answer Recording Screen**: After each question, the user is given a chance to record their response in audio and video format. The recorded media chunks are sent to an API for saving.
 
 #Test Completion Screen: Once all the questions have been answered, the app displays a completion screen with results or next steps.
 
