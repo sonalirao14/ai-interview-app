@@ -53,10 +53,10 @@ Once the server is running, open your browser and go to http://localhost:3000 to
 ## Permissions
 During the interview process, the app will request the following permissions:
 
-# Audio: To capture the user's voice for answering questions.
-# Video: To record the user's video for the interview.
-# Screen Sharing: If enabled, the app will request permission to share your screen for a more immersive experience.
-# Please grant the required permissions for the app to function properly.
+Audio: To capture the user's voice for answering questions.
+Video: To record the user's video for the interview.
+Screen Sharing: If enabled, the app will request permission to share your screen for a more immersive experience.
+Please grant the required permissions for the app to function properly.
 
 ## How It Works
 **Instruction Screen**: The app starts by displaying instructions on how to proceed with the interview.
