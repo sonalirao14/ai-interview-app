@@ -53,9 +53,9 @@ Once the server is running, open your browser and go to http://localhost:3000 to
 ## Permissions
 During the interview process, the app will request the following permissions:
 
-Audio: To capture the user's voice for answering questions.
-Video: To record the user's video for the interview.
-Screen Sharing: If enabled, the app will request permission to share your screen for a more immersive experience.
+**Audio**: To capture the user's voice for answering questions.
+**Video**: To record the user's video for the interview.
+**Screen Sharing**: If enabled, the app will request permission to share your screen for a more immersive experience.
 Please grant the required permissions for the app to function properly.
 
 ## How It Works
@@ -67,7 +67,7 @@ Please grant the required permissions for the app to function properly.
 
 **Answer Recording Screen**: After each question, the user is given a chance to record their response in audio and video format. The recorded media chunks are sent to an API for saving.
 
-#Test Completion Screen: Once all the questions have been answered, the app displays a completion screen with results or next steps.
+**Test Completion Screen**: Once all the questions have been answered, the app displays a completion screen with results or next steps.
 
 ## Conclusion:
 This AI Interview App provides a great platform to practice interviews with AI, offering an interactive and realistic mock interview experience. The app utilizes Next.js, Tailwind CSS, and TypeScript for efficient development and a responsive, user-friendly interface.
